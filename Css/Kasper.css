@@ -1025,14 +1025,14 @@ header nav .form i {
 }
 
 .contact .content .info {
-    flex-basis: 30%;
+    flex-basis: 22%;
 }
 
 .contact .content .info h4 {
     font-weight: 500;
     text-transform: uppercase;
-    margin-bottom: 30px;
-    margin-top: -110px;
+    margin-bottom: 60px;
+    margin-top: -30px;
     font-size: 18px;
 }
 
