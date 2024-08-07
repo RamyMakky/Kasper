@@ -247,7 +247,7 @@ header nav .form i {
     font-size: 37px;
     position: relative;
     margin-bottom: 70px;
-    margin-top: 70px;
+    margin-top: -40px;
     text-transform: uppercase;
 }
 .main-heading h2::before {
@@ -531,8 +531,8 @@ header nav .form i {
 
 .about img {
     position: relative;
-    bottom: -275px;
-    margin-top: -275px;
+    bottom: -140px;
+    margin-top: -140px;
     max-width: 100%;
 }
 @media (max-width: 767px) {
